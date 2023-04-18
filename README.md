@@ -45,6 +45,11 @@ git checkout | switch to another branch and check it out into your working direc
 git checkout [branch name] | Switch to a branch
 git checkout - | Switch to the branch last checked out
 git checkout -- [file-name.txt] | Discard changes to a file
+
+
+# Inspection & Comparison
+Git Command | Description
+----------- | -----------
 git log | show all commits in the current branch’s history
 git log branchB..branchA | show the commits on branchA that are not on branchB
 git log --follow [file] | show the commits that changed file, even across renames
