@@ -3,4 +3,4 @@ Git Commands CheatSheet
 
 Git Command          | Description
 -----------          | -----------
-git init             | initializes an empty git repository
+git init git initgit initgit initgit initgit init            | initializes an empty git repository
